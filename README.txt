@@ -11,3 +11,5 @@ The project uses simple **Basic Auth** for verification and returns data in **JS
 
 ### Purpose
 A spontaneous **“Saturday hack”** to test out some web technologies before building the corresponding Android client.
+
+If this project were to evolve beyond a prototype, I’d replace PHP with **FastAPI** or **Node.js (Express)** for better async performance, easier containerization, and smoother CI/CD integration.
